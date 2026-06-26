@@ -74,7 +74,6 @@ function addTask(e){
 
             // remove the parent div
             task.remove()
-            
         })
     
         
