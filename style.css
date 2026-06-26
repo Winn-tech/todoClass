@@ -10,7 +10,7 @@ form{
     padding: 20px 30px;
     margin: auto;
     display: none;
-    margin-top: 5%;
+    margin-top: 3%;
 }
 .show{
     display: block;
@@ -53,12 +53,14 @@ section div{
     color: white;
     border-radius: 5px ;
     margin-right: 10px;
+    cursor: pointer;
 }
 .edit{
     padding: 10px;
     background-color: blue;
     color: white;
     border-radius: 5px ;
+    cursor: pointer;
 }
 #plus{
     margin-left: 5%;
@@ -67,4 +69,5 @@ section div{
     background-color: blue;
     padding: 10px 20px;
     width: fit-content;
+    cursor: pointer;
 }
